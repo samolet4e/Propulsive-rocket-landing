@@ -1,5 +1,4 @@
 Move HL21 folder  to %FlightGearInstallDir%\fgdata_2024_1\Aircraft
-
 Move myRocket.xml to %FlightGearInstallDir%\fgdata_2024_1\Protocol
 
 Run FlightGear with following script
