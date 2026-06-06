@@ -5,4 +5,5 @@ Run FlightGear with following script<br />
 --fdm=null<br />
 --altitude=3000<br />
 --httpd=8080<br />
-Run go.m script
+Run go.m script<br />
+https://youtu.be/kJcpA-j-u2w
