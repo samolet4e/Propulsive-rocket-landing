@@ -5,5 +5,6 @@ Run FlightGear with following script<br />
 --fdm=null<br />
 --altitude=3000<br />
 --httpd=8080<br />
+Package instrument-control is a must<br />
 Run go.m script<br />
 https://youtu.be/kJcpA-j-u2w
